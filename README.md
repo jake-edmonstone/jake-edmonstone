@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @jake-edmonstone
+- 🌱 I’m currently studying mathematics at the University of Waterloo
+- Personal email: jbedmonstone@gmail.com
+- School email: jbedmons@uwaterloo.ca
