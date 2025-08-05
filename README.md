@@ -1,4 +1,13 @@
-- 👋 Hi, I’m @jake-edmonstone
-- 🌱 I’m currently studying computer science at the University of Waterloo
-- Personal email: jbedmonstone@gmail.com
-- School email: jbedmons@uwaterloo.ca
+# Jake Edmonstone
+
+**Pure Mathematics and Computer Science student**  
+University of Waterloo · Class of 2027
+
+---
+
+###  Website
+[**jake-edmonstone.github.io**](https://jake-edmonstone.github.io)
+
+---
+
+📄 [Résumé](https://jake-edmonstone.github.io/resume.pdf) • 📫 [Email](mailto:jbedmons@uwaterloo.ca) • [LinkedIn](https://www.linkedin.com/in/jake-edmonstone/)
