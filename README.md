@@ -10,4 +10,4 @@ University of Waterloo · Class of 2027
 
 ---
 
-📄 [Résumé](https://jake-edmonstone.github.io/resume.pdf) • 📫 [Email](mailto:jbedmons@uwaterloo.ca) • [LinkedIn](https://www.linkedin.com/in/jake-edmonstone/)
+[Résumé](https://jake-edmonstone.github.io/resume.pdf) • [Email](mailto:jbedmons@uwaterloo.ca) • [LinkedIn](https://www.linkedin.com/in/jake-edmonstone/)
